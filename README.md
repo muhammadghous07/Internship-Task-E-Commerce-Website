@@ -18,23 +18,41 @@ The project includes:
 
 ecommerce-frontend/
 ├─ public/
+
 │ └─ index.html
+
 ├─ src/
+
 │ ├─ components/
+
 │ │ ├─ Navbar.jsx
+
 │ │ ├─ Footer.jsx
+
 │ │ ├─ ProductCard.jsx
+
 │ │ ├─ CartItem.jsx
+
 │ ├─ pages/
+
 │ │ ├─ Home.jsx
+
 │ │ ├─ Shop.jsx
+
 │ │ ├─ ProductPage.jsx
+
 │ │ ├─ Cart.jsx
+
 │ │ └─ Checkout.jsx
+
 │ ├─ App.jsx
+
 │ ├─ index.js
+
 │ └─ styles.css
+
 ├─ package.json
+
 └─ README.md
 
 ---
